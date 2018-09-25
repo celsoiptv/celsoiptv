@@ -1,0 +1,769 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37130.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36929.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="Canais | Filmes e Series",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37129.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36928.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37128.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36992.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37133.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37132.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36991.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36993.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="AMC [Altternativo]" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais Alternativo",AMC [Altternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41087.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="Band Campinas" tvg-logo="http://painel.linkiptv.ml/logocanais/band_br.png" group-title="Canais | Abertos",Band Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41100.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="Band Campinas HD" tvg-logo="http://painel.linkiptv.ml/logocanais/band_br.png" group-title="Canais | Abertos",Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41101.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="" group-title="Canais | Alternativo",Band SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41106.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37127.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36990.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BandNews" tvg-name="Band News" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",Band News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37126.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",Band Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37125.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36989.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BIS" tvg-name="Bis" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",Bis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37131.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="BIS" tvg-name="Bis HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",Bis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36988.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37123.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37122.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil",DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40513.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40519.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE HD" tvg-logo="https://www.parabola.cz/img_logo/mtv-live-hd.gif" group-title="Canais | Variedades",MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40518.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV TEM SJRP" tvg-name="TV TEM RIO PRETO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",TV TEM RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40516.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV TEM SJRP" tvg-name="TV TEM RIO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",TV TEM RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40515.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36987.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="Cançao Nova" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Cançao Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37023.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37121.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36927.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/LP_Chaves.jpg" group-title="Canais | 24 Horas",Chaves
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39762.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | Filmes e Series",Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37120.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36926.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37119.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36986.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37118.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36925.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37117.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="http://2.bp.blogspot.com/-6HEU0pJ2gqI/VOyIbDax8kI/AAAAAAAANGU/6B8x_EOaMOk/s1600/Desenhos%2BBiblicos%2B%2B1.png" group-title="Canais | 24 Horas",DESENHOS BIBLICOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39780.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37116.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36985.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="https://1.bp.blogspot.com/-zfUSjCPSqE0/WasIODWYBVI/AAAAAAAACSE/7Y3DoKQVXuQrsCbTghQBC_Ni-DG6Mej4ACLcBGAs/s1600/downloadfile-1.png" group-title="Canais | Documentarios",Discovery Civilization HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36924.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37115.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36984.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37113.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36923.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="Canais | Documentarios",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36922.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36983.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37112.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36982.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36981.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37111.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36921.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney JR" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37110.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37109.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="E!" tvg-name="E! Entertainment Television" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! Entertainment Television
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37108.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://goo.gl/V6G6Hy" group-title="Canais | Variedades",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36920.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37105.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",Espn Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37104.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36978.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36977.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN Plus HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36976.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2 HD" tvg-logo="https://i.imgur.com/GJ23sDI.png" group-title="Canais | Esportes",Esporte Interativo 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37348.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/OpkyrD1.png" group-title="Canais | Esportes",Esporte Interativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36975.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37103.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37102.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36919.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37101.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36972.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Filmes e Series",Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37100.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36918.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",FOX Premium 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37335.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36974.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",FOX Premium 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37336.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36973.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37099.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37098.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36971.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36970.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37097.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36969.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Anhanguera Goiania" tvg-name="GLOBO ANHANGUERA" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais | Abertos",GLOBO ANHANGUERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38966.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="Globo Bahia" tvg-logo="https://i.imgur.com/qKVxMjv.png" group-title="Canais | Abertos",Globo Bahia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37096.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Brasilia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37095.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO EPTV RIBEIRÃO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38640.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RIC TV Florianopolis" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO FLORIANOPOLIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38641.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",Globo News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37093.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36917.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",Globo Nordeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37092.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/41jw6Ej.png" group-title="Canais | Abertos",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38971.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37091.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36968.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo RPC Curitiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37366.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Globo Sat" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Variedades",Globo Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37134.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Globo Sat HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Globo Sat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36916.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37090.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37361.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Anhanguera Goiania" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://i.imgur.com/55jNpJk.png" group-title="Canais | Abertos",GLOBO TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38967.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.imgur.com/qKVxMjv.png" group-title="Canais | Abertos",GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38968.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37089.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36915.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37088.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36967.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37087.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37086.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://t.likeiptv.com/hbo2hd.png" group-title="Canais | Filmes e Series",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36966.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37085.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://t.likeiptv.com/hbohddd.png" group-title="Canais | Filmes e Series",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36965.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Filmes e Series",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36964.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37084.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Plus*e" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37083.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://t.likeiptv.com/hboplushd.png" group-title="Canais | Filmes e Series",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36963.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37082.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36962.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37081.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="H2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40040.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="H2" tvg-name="History 2 HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36961.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36960.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",Investigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36959.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Documentarios",Investigação Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37114.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Life Time" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Life Time
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37077.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Life Time HD" tvg-logo="http://t.likeiptv.com/lifetimehd.png" group-title="Canais | Variedades",Life Time HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36914.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max" tvg-name="Max" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37076.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max" tvg-name="Max HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36913.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37075.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max Prime*e" tvg-name="Max Prime E" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max Prime E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37074.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",Max Prime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36912.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37073.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",Max UP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36911.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37072.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36958.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37071.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36910.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36957.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brasil" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37069.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",NatGeo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37068.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/738.png" group-title="Canais | Documentarios",NatGeo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36956.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37067.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36909.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="NatGeo Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37066.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="NatGeo Wild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="Canais | Documentarios",NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36955.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://i.imgur.com/gb8AAKf.png" group-title="Canais | Abertos",NBR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37021.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37065.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36908.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37064.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36907.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Religioso",Novo Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39793.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37063.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36954.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37062.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36953.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] PlayBoy" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] PlayBoy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37061.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37060.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36952.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37059.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36951.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37058.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36950.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37057.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36949.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37056.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36906.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37017.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36905.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37016.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36948.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37053.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="Ra Tim Bum" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",Ra Tim Bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37015.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37051.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36947.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37050.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Abertos",Rede Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37013.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37012.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36946.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37011.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37048.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36945.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="[XX] Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",[XX] Sextreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37047.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="[XX] Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",[XX] Sexy Hot
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37009.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DA VIOLA" tvg-logo="" group-title="Canais | 24 Horas",SHOW DA VIOLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39770.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria Bar das Coleguinhas" tvg-logo="" group-title="Shows",Simone e Simaria Bar das Coleguinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39792.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37007.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37046.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36944.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37256.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37044.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",Sportv 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36943.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37006.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",Sportv 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36942.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37255.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37043.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36904.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37042.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36903.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Tabela Jogos Premiere" tvg-logo="" group-title="Canais | Esportes",Tabela Jogos Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39764.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37041.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Variedades",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36940.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37037.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37040.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36939.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Filmes e Series",Telecine Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37039.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36901.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37005.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36938.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Filmes e Series",Telecine Pipoca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37038.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36937.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",Telecine Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36994.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="" group-title="Canais | Filmes e Series",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36936.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36995.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36935.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Variedades",Terra Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37004.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Variedades",TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37036.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36902.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37035.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://t.likeiptv.com/tnthd1.png" group-title="Canais | Filmes e Series",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36934.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37034.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://t.likeiptv.com/tntserieshd.png" group-title="Canais | Filmes e Series",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36933.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37033.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TruTV" tvg-name="Tru TV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",Tru TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37032.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37003.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36999.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="TV GLOOBINHO HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",TV GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38969.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="TV Tem Bauru" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV Tem Bauru
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37030.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="TV Tem Sorocaba" tvg-logo="https://i.imgur.com/n6a7ez8.png" group-title="Canais | Abertos",TV Tem Sorocaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37029.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="TV Verdes mares" tvg-logo="https://i.imgur.com/wfTcvoz.png" group-title="Canais | Abertos",TV Verdes mares
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37028.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37027.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36932.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Venus" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37026.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36900.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36997.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36931.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36996.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36930.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37025.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports 4K" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais 4K",Fox Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40784.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="Globo Anhanguera Goiania" tvg-logo="" group-title="Canais Alternativo",Globo Anhanguera Goiania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41202.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Bahia HD H265" tvg-logo="" group-title="Canais Alternativo",Globo Bahia HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41203.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",GLOBO EPTV RIBEIRÃO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40514.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="Canais Alternativo",History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41253.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Canais Alternativo",History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41254.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime [Alernativo]" tvg-logo="" group-title="Canais Alternativo",Lifetime [Alernativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41258.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Nickelodeon [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41285.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Nickelodeon HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41286.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",OFF HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41287.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Paramount [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Paramount [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41288.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Paramount HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41289.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Play TV [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Play TV [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41290.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Polishop Tv" tvg-logo="" group-title="Canais Alternativo",Polishop Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41291.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 2 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41293.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 2 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41294.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 3 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41295.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 3 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41297.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 4 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41298.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 4 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41299.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 5 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41300.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 5 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41301.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 6 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41302.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 7 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41303.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 8 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41304.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere 9 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41305.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Premiere Clubes [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41292.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes 4K" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais 4K",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40783.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Record Campinas HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41306.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Record Esp. Santo [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Record Esp. Santo [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41307.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Record News [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Record News [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41308.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Record SP HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41309.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Rede TV HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41310.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SBT HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41311.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SBT Nordeste HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41312.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Space [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Space [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41313.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Space HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Space HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41314.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SporTV [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SporTV [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41315.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SporTV 2 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41316.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SporTV 2 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41317.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais 4K",SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/40785.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SporTV HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41318.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",SyFy HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41319.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TBS HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41320.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TCM [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TCM [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41321.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Action [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41322.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Action HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41323.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Cult [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41324.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Cult HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41325.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Fun [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41326.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD [Alternativo]" tvg-logo="" group-title="",Telecine Fun HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41327.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Pipoca [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41328.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Pipoca HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41329.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Premium [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41330.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Telecine Premium HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41331.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TLC [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TLC [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41332.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TLC HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41333.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TNT HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41334.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series [Alternativo]" tvg-logo="" group-title="",TNT Series [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41335.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TNT Series HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41336.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Tooncast [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41337.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Tooncast HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41338.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TruTv [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TruTv [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41339.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TV Aparecida [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TV Aparecida HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41341.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Tv Boa Vontade [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Tv Boa Vontade [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41342.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="" group-title="Canais Alternativo",TV Cultura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41343.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",TV Cultura HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41344.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Tv Gazeta" tvg-logo="" group-title="Canais Alternativo",Tv Gazeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41345.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum" tvg-logo="" group-title="Canais Alternativo",TV Ra Tim Bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41346.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Universal Channel [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41347.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD [Alternativo]" tvg-logo="" group-title="",Universal Channel HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41348.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="VH1 [Alternativo]" tvg-logo="" group-title="Canais Alternativo",VH1 [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41349.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",VH1 HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41350.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="VIVA [Alternativo]" tvg-logo="" group-title="Canais Alternativo",VIVA [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41351.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",VIVA HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41352.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Warner Channel [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41353.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Warner Channel HD [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41354.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo [Alternativo]" tvg-logo="" group-title="Canais Alternativo",Woohoo [Alternativo]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/41355.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/36899.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="CABARE EDUARDO COSTA & LEONARDO" tvg-logo="" group-title="Shows",CABARE EDUARDO COSTA & LEONARDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39768.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL SERTANEJO" tvg-logo="" group-title="Shows",FESTIVAL SERTANEJO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39772.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Festival Sertanejo 2018" tvg-logo="" group-title="Shows",Festival Sertanejo 2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39771.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="O MELHOR DO PAGODE" tvg-logo="" group-title="Shows",O MELHOR DO PAGODE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39773.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39583.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Banda Calypso" tvg-logo="" group-title="Shows",Banda Calypso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39787.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="BANDA FORROZÃO DAS ANTIGAS" tvg-logo="" group-title="Shows",BANDA FORROZÃO DAS ANTIGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39786.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="David Guetta" tvg-logo="" group-title="Shows",David Guetta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39785.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Frank Aguiar" tvg-logo="" group-title="Shows",Frank Aguiar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39788.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="JOAO NETO E FREDERICO" tvg-logo="" group-title="Shows",JOAO NETO E FREDERICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39790.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Milionario e Jose Rico" tvg-logo="" group-title="Shows",Milionario e Jose Rico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39789.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Racionais Mc's" tvg-logo="" group-title="Shows",Racionais Mc's
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39784.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Teodoro & Sampaio" tvg-logo="" group-title="Shows",Teodoro & Sampaio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39791.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano" tvg-logo="" group-title="Shows",Zé Neto e Cristiano
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39769.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas" tvg-logo="http://3.bp.blogspot.com/-p230jI325Js/Te56z1bH7fI/AAAAAAAAAKw/aowJ4Wn7KEA/s1600/6998.gif" group-title="Canais | 24 Horas",As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37433.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24 Horas" tvg-logo="https://occ-0-901-1001.1.nflxso.net/art/7601d/66f31aed8d6b2b24aee7bc55d3cc3d4d0d77601d.png" group-title="Canais | 24 Horas",Bob Esponja 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37431.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Criancas" tvg-logo="http://2.bp.blogspot.com/-xNkqv6CkTCk/U8RFLBllS7I/AAAAAAAAIIg/-W9J-vSiPgM/s1600/1300717820_179564070_1-Fotos-de-Eu-a-Patroa-e-as-Criancas-DVD-1234-e-5-Temporada-Completas-Imagem-HDTV-Dublado.jpg" group-title="Canais | 24 Horas",Eu a Patroa e as Criancas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37440.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/The_Simpsons_promo.png/229px-The_Simpsons_promo.png" group-title="Canais | 24 Horas",Os Simpsons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37438.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhoes" tvg-logo="https://pbs.twimg.com/profile_images/2817074487/5d0ea5554e68e6b660d3a0f92ee6af66_400x400.jpeg" group-title="Canais | 24 Horas",Os Trapalhoes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37437.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="http://2.bp.blogspot.com/-2NtMOoJta8A/VDc1XS4bzuI/AAAAAAAACB0/7flQHQlRhCE/s1600/chapolin.png" group-title="Canais | 24 Horas",Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37430.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho" tvg-logo="https://colorir.org/wp-content/uploads/2015/07/chaves-para-colorir.png" group-title="Canais | 24 Horas",Chaves Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37413.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Charlie Brown" tvg-logo="" group-title="Canais | 24 Horas",A Turma do Charlie Brown
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39565.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39576.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica" tvg-logo="http://1.bp.blogspot.com/-ksg1L-EuEJ0/UxfPcWiYZNI/AAAAAAAABi0/PFDR7T8OY2c/s1600/turma-da-monica.png" group-title="Canais | 24 Horas",Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39571.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Charlie e Lola" tvg-logo="http://www.mag2u.com/images/custom/cnl/charlielola.png" group-title="Canais | 24 Horas",Charlie e Lola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39579.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Cocoricó" tvg-logo="https://i.pinimg.com/originals/d9/85/04/d985040b90dac7529ac94816b0dadcd9.png" group-title="Canais | 24 Horas",Cocoricó
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39582.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39570.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TONES" tvg-logo="https://orig00.deviantart.net/214b/f/2012/009/6/9/69a53eac14e46b5ac302935d314246cc-d2ub40a.png" group-title="Canais | 24 Horas",LOONEY TONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39575.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="http://2.bp.blogspot.com/-bMLyzRKgRbc/U7a7nU5RFvI/AAAAAAAABvA/mugFra_KGJ4/s1600/image009.gif" group-title="Canais | 24 Horas",Garfield
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39573.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="Canais | 24 Horas",Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39574.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://www.peppapigliveaus.com/img/slides/Peppa.png" group-title="Canais | 24 Horas",Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39572.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Pateta" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2018/03/Turma-do-Mickey-Pateta-Png-300x284.png" group-title="Canais | 24 Horas",A Turma do Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38995.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Apenas um Show" tvg-logo="" group-title="Canais | 24 Horas",Apenas um Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38993.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://orig00.deviantart.net/7c56/f/2014/210/7/8/dragon_ball_z___icon_folder_by_ubagutobr-d7sthhw.png" group-title="Canais | 24 Horas",Dragon Ball Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39566.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="He Man" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",He Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39776.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Mundo de Gumball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Amazing_World_of_Gumball_logo.png" group-title="Canais | 24 Horas",O Incrivel Mundo de Gumball
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39774.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA" tvg-logo="https://occ-0-901-999.1.nflxso.net/art/3dbf7/2ae0a5ddd191aa9565d566c729882104f063dbf7.png" group-title="Canais | 24 Horas",PATATI PATATA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39781.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks" tvg-logo="https://i1.wp.com/disneynews.us/wp-content/uploads/2018/04/l4406_4419_PJ-Masks.png" group-title="Canais | 24 Horas",PJ Masks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39775.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Canais | 24 Horas",Popeye
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39777.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEwNTNiYjYtMTk4Mi00NWJhLWJhYmQtMmM5YzI0M2ZjMmZhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="Canais | 24 Horas",Hey Arnold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38994.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE5NjBiNDktYWI4ZC00YjA0LWE1OGEtMzVlZTg1ZTk2MmMzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="Canais | 24 Horas",Johnny Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38996.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="KND - A Turma do Bairro" tvg-logo="https://liquipedia.net/commons/images/3/37/Kndlogoreal.png" group-title="Canais | 24 Horas",KND - A Turma do Bairro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39560.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e Donald" tvg-logo="https://www.disneyclips.com/imagesnewb2/images/donald-mickey-picture.png" group-title="Canais | 24 Horas",Mickey e Donald
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39561.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="https://media.forgecdn.net/avatars/46/916/636060518841893476.png" group-title="Canais | 24 Horas",Pokemon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39564.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="http://cdn.pastemagazine.com/www/blogs/lists/staticshocklead.jpg" group-title="Canais | 24 Horas",Super Choque
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/38992.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Zatch Bell" tvg-logo="https://orig00.deviantart.net/4284/f/2016/282/b/9/konjiki_no_gash_bell___by_ohhaiguys-dakdtiw.png" group-title="Canais | 24 Horas",Zatch Bell
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/39562.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.silverkgallery.com.au/Futurama/futurama_title_screen.gif" group-title="Canais | 24 Horas",Futurama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37412.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Picapau" tvg-logo="https://1.bp.blogspot.com/-lpMHpogBQS4/Ug0YYPwu4II/AAAAAAAA42A/CsqxpGNUyNU/s1600/15191512Jge85DBz.png" group-title="Canais | 24 Horas",Picapau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37429.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hunter FM" tvg-logo="https://asky-14.audials.com/radio_logo/24387.png" group-title="Radios",Rádio Hunter FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37383.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio 89 FM" tvg-logo="https://i.imgur.com/rM3YIes.png" group-title="Radios",Radio 89 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37370.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Alpha FM" tvg-logo="https://i.imgur.com/QyWzUEd.png" group-title="Radios",Radio Alpha FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37374.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena 1" tvg-logo="https://i.imgur.com/yEWzZto.png" group-title="Radios",Radio Antena 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37376.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio CBN" tvg-logo="https://i.imgur.com/UCezljK.png" group-title="Radios",Radio CBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37382.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Continental FM" tvg-logo="https://i.imgur.com/omQt9QB.png" group-title="Radios",Radio Continental FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37373.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gazeta FM" tvg-logo="https://i.imgur.com/ZYhuKyi.png" group-title="Radios",Radio Gazeta FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37377.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Grenal FM" tvg-logo="https://i.imgur.com/GGojury.png" group-title="Radios",Radio Grenal FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37378.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio JB FM" tvg-logo="https://i.imgur.com/X7OPxyY.png" group-title="Radios",Radio JB FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37369.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem Pan AM" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/radio-jovem-pan-am-620-sao-paulo.png" group-title="Radios",Radio Jovem Pan AM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37365.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem Pan FM" tvg-logo="http://images.jovempanfm.uol.com.br/ouAnRyJTiJvFNp0EAx7OsaS-4Ms=/140x0/top/media.jovempanfm.uol.com.br/archives/2014/02/03/1134130815-logo-tres-rios.png" group-title="Radios",Radio Jovem Pan FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37364.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem Pop" tvg-logo="https://i1.sndcdn.com/artworks-000109070872-ydyync-large.jpg" group-title="Radios",Radio Jovem Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37384.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Melodia" tvg-logo="https://i.imgur.com/5WyTllO.png" group-title="Radios",Radio Melodia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37379.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolitana FM" tvg-logo="https://i.imgur.com/vcctEmG.png" group-title="Radios",Radio Metropolitana FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37381.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mix FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/sp/radio-mix-fm-sp.png" group-title="Radios",Radio Mix FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37356.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rio FM" tvg-logo="https://i.imgur.com/d8T4jjJ.png" group-title="Radios",Radio Rio FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37371.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sulamerica Paradiso" tvg-logo="https://i.imgur.com/3uA8RTx.png" group-title="Radios",Radio Sulamerica Paradiso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37380.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
+#EXTINF:-1 tvg-id="" tvg-name="Radio Transamerica" tvg-logo="https://i.imgur.com/FwiepGr.png" group-title="Radios",Radio Transamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.factoryiptv.com:80/live/gerusabaiana/1288/37368.ts&amp;streamtype=TSDOWNLOADER&amp;name=CelsoIPTV-Premium
